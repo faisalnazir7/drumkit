@@ -1,2 +1,4 @@
 # drumkit
-created side by side while learning form course.
+
+
+https://faisalnazir7.github.io/drumkit/
